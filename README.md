@@ -59,11 +59,9 @@ For further information, questions, or contributions, please contact:
 
 **Project Lead:** Gwhwmsha Boro  
 **Email:** brogwhwm@gmail.com  
-**GitHub:** [https://github.com/Gwhwm24
+**GitHub:** https://github.com/Gwhwm24
 
----
 
-Feel free to customize the contact details and any other specifics according to your project's needs.
-##Deployment
+## Deployment
 Contract Address:0xecfd7fc69bca80ba728afc3cba074d368796adfe
 ![image](https://github.com/user-attachments/assets/83c4a13b-9a5e-41f4-a9f6-a94737c18e1f)
